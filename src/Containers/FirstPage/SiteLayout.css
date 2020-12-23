@@ -1,0 +1,17 @@
+.MainContainer{
+    display: block;
+    height: 80vh;
+    width: 97vw;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+.MainView {
+    height: 100vh;
+    width: 80vw;
+}
+#paper1 {
+    height: 75vh;
+    margin-top: 2vh;
+    background-color: #e8eaf6;
+    text-align: center;
+}

@@ -1,0 +1,29 @@
+#head {
+    background-color: #311b92;
+    color: "#e8eaf6";
+    height: 10vh;
+    
+}
+#icon {
+    margin-left: 1%;
+    margin-top: .6%;
+    color: #e8eaf6;
+    height: 50px;
+    width: 50px;
+    
+}
+#icons {
+    height: 130%;
+    width: 130%;
+}
+#Text {
+    margin-left: 40%;
+    margin-top: 1%;
+    text-align: center;
+    font-size: xx-large;
+    color: #e8eaf6;
+    height: 500px;
+    width: 500px;
+    display: inline;
+    
+}

@@ -1,0 +1,590 @@
+[
+{
+    "position": {
+    "page": 1,
+    "position": 1,
+    "global_position": 1
+    },
+    "asin": "B084GSMNRD",
+    "price": {
+    "discounted": false,
+    "current_price": 832.98,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 79,
+    "rating": 4.5
+    },
+    "url": "https://www.amazon.com/dp/B084GSMNRD",
+    "score": "355.50",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Sponsored Ad - Apple iPhone 11 [64GB, Purple] + Carrier Subscription [Cricket Wireless]",
+    "thumbnail": "https://m.media-amazon.com/images/I/71xn9bCRfhL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 2,
+    "global_position": 2
+    },
+    "asin": "B087623TMW",
+    "price": {
+    "discounted": false,
+    "current_price": 399,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 148,
+    "rating": 4.3
+    },
+    "url": "https://www.amazon.com/dp/B087623TMW",
+    "score": "636.40",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Sponsored Ad - New Apple iPhone SE (64GB, (Product) RED) [Locked] + Carrier Subscription",
+    "thumbnail": "https://m.media-amazon.com/images/I/810DvHOZ9nL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 3,
+    "global_position": 3
+    },
+    "asin": "B07D6TT174",
+    "price": {
+    "discounted": true,
+    "current_price": 228.98,
+    "currency": "USD",
+    "before_price": 247.95,
+    "savings_amount": 18.97,
+    "savings_percent": 7.65
+    },
+    "reviews": {
+    "total_reviews": 16273,
+    "rating": 4.3
+    },
+    "url": "https://www.amazon.com/dp/B07D6TT174",
+    "score": "69973.90",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": true,
+    "amazonPrime": false,
+    "title": "Apple iPhone 8, 64GB, Space Gray - For AT&T (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/81F-QC1N5WL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 4,
+    "global_position": 4
+    },
+    "asin": "B07XSQT4Q3",
+    "price": {
+    "discounted": false,
+    "current_price": 1099.99,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 52,
+    "rating": 3.2
+    },
+    "url": "https://www.amazon.com/dp/B07XSQT4Q3",
+    "score": "166.40",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple Simple Mobile Prepaid - Apple iPhone 11 Pro Max (64GB) - Midnight Green [Locked to Carrier – Simple Mobile]",
+    "thumbnail": "https://m.media-amazon.com/images/I/81mxun+6pEL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 6,
+    "global_position": 5
+    },
+    "asin": "B08CFSZLQ4",
+    "price": {
+    "discounted": false,
+    "current_price": 349,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 2773,
+    "rating": 4.6
+    },
+    "url": "https://www.amazon.com/dp/B08CFSZLQ4",
+    "score": "12755.80",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Google Pixel 4a - New Unlocked Android Smartphone - 128 GB of Storage - Up to 24 Hour Battery - Just Black",
+    "thumbnail": "https://m.media-amazon.com/images/I/7199N-Uz2AL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 7,
+    "global_position": 6
+    },
+    "asin": "B079G8GR9J",
+    "price": {
+    "discounted": false,
+    "current_price": 188,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 2898,
+    "rating": 4.1
+    },
+    "url": "https://www.amazon.com/dp/B079G8GR9J",
+    "score": "11881.80",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": false,
+    "title": "Apple iPhone 7 a1778, GSM Unlocked, 32GB (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/71SzDBdKVxL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 8,
+    "global_position": 7
+    },
+    "asin": "B0743HG3ZJ",
+    "price": {
+    "discounted": false,
+    "current_price": 299.99,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 9586,
+    "rating": 4.2
+    },
+    "url": "https://www.amazon.com/dp/B0743HG3ZJ",
+    "score": "40261.20",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple iPhone 7 Plus, 128GB, Gold - Fully Unlocked (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/71NwKwSqSAL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 9,
+    "global_position": 8
+    },
+    "asin": "B07P6Y7954",
+    "price": {
+    "discounted": true,
+    "current_price": 377,
+    "currency": "USD",
+    "before_price": 398,
+    "savings_amount": 21,
+    "savings_percent": 5.28
+    },
+    "reviews": {
+    "total_reviews": 16999,
+    "rating": 4.5
+    },
+    "url": "https://www.amazon.com/dp/B07P6Y7954",
+    "score": "76495.50",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple iPhone XR, 64GB, Black - Fully Unlocked (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/717KHGCJ6eL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 10,
+    "global_position": 9
+    },
+    "asin": "B077578W38",
+    "price": {
+    "discounted": true,
+    "current_price": 0,
+    "currency": "USD",
+    "before_price": 394,
+    "savings_amount": 394,
+    "savings_percent": 100
+    },
+    "reviews": {
+    "total_reviews": 6480,
+    "rating": 4.2
+    },
+    "url": "https://www.amazon.com/dp/B077578W38",
+    "score": "27216.00",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple iPhone X, 64GB, Space Gray - Fully Unlocked (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/61gVPTl5N3L._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 11,
+    "global_position": 10
+    },
+    "asin": "B08L5P9B9H",
+    "price": {
+    "discounted": false,
+    "current_price": 1199,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 25,
+    "rating": 3.5
+    },
+    "url": "https://www.amazon.com/dp/B08L5P9B9H",
+    "score": "87.50",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "New Apple iPhone 12 Pro Max (256GB, Graphite) [Locked] + Carrier Subscription",
+    "thumbnail": "https://m.media-amazon.com/images/I/71XXJC7V8tL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 12,
+    "global_position": 11
+    },
+    "asin": "B01N4R20RS",
+    "price": {
+    "discounted": false,
+    "current_price": 177.75,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 25044,
+    "rating": 4.1
+    },
+    "url": "https://www.amazon.com/dp/B01N4R20RS",
+    "score": "102680.40",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple iPhone 7, 32GB, Black - Fully Unlocked (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/41ZtfBP1C6L._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 13,
+    "global_position": 12
+    },
+    "asin": "B07XSRWD6F",
+    "price": {
+    "discounted": true,
+    "current_price": 0,
+    "currency": "USD",
+    "before_price": 1099,
+    "savings_amount": 1099,
+    "savings_percent": 100
+    },
+    "reviews": {
+    "total_reviews": 62,
+    "rating": 3.6
+    },
+    "url": "https://www.amazon.com/dp/B07XSRWD6F",
+    "score": "223.20",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple Simple Mobile Prepaid - Apple iPhone 11 Pro Max (64GB) - Gold [Locked to Carrier – Simple Mobile]",
+    "thumbnail": "https://m.media-amazon.com/images/I/81BwcI+j7yL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 14,
+    "global_position": 13
+    },
+    "asin": "B08L5NZHK6",
+    "price": {
+    "discounted": false,
+    "current_price": 0,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 24,
+    "rating": 4
+    },
+    "url": "https://www.amazon.com/dp/B08L5NZHK6",
+    "score": "96.00",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "New Apple iPhone 12 (64GB, Black) [Locked] + Carrier Subscription",
+    "thumbnail": "https://m.media-amazon.com/images/I/71fVoqRC0wL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 15,
+    "global_position": 14
+    },
+    "asin": "B07ZQRMWVB",
+    "price": {
+    "discounted": false,
+    "current_price": 687,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 333,
+    "rating": 4.4
+    },
+    "url": "https://www.amazon.com/dp/B07ZQRMWVB",
+    "score": "1465.20",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": false,
+    "title": "Apple iPhone 11 Pro, 64GB, Midnight Green - Fully Unlocked (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/61vflt1U5gL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 16,
+    "global_position": 15
+    },
+    "asin": "B07ZPKDYDL",
+    "price": {
+    "discounted": false,
+    "current_price": 669.98,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 30,
+    "rating": 4.4
+    },
+    "url": "https://www.amazon.com/dp/B07ZPKDYDL",
+    "score": "132.00",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Apple iPhone 11, 256GB, Unlocked - Yellow (Renewed)",
+    "thumbnail": "https://m.media-amazon.com/images/I/51Mm+gaZCSL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 17,
+    "global_position": 16
+    },
+    "asin": "B08BX7N9SK",
+    "price": {
+    "discounted": true,
+    "current_price": 971.36,
+    "currency": "USD",
+    "before_price": 1299.99,
+    "savings_amount": 328.63,
+    "savings_percent": 25.28
+    },
+    "reviews": {
+    "total_reviews": 1965,
+    "rating": 4.6
+    },
+    "url": "https://www.amazon.com/dp/B08BX7N9SK",
+    "score": "9039.00",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Samsung Electronics Galaxy Note 20 Ultra 5G Factory Unlocked Android Cell Phone, US Version, 128GB of Storage, Mobile Gami...",
+    "thumbnail": "https://m.media-amazon.com/images/I/813y2+dPUOL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 18,
+    "global_position": 17
+    },
+    "asin": "B07XYBHM6C",
+    "price": {
+    "discounted": false,
+    "current_price": 139.99,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 5421,
+    "rating": 4.3
+    },
+    "url": "https://www.amazon.com/dp/B07XYBHM6C",
+    "score": "23310.30",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Samsung Galaxy A10s (32GB, 2GB RAM) Duos w/ 13MP Camera Dual SIM GSM Factory Unlocked A107M/DS - US + Global 4G LTE Intern...",
+    "thumbnail": "https://m.media-amazon.com/images/I/61zloQ55pzL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 19,
+    "global_position": 18
+    },
+    "asin": "B01N2K14U7",
+    "price": {
+    "discounted": true,
+    "current_price": 159,
+    "currency": "USD",
+    "before_price": 199.99,
+    "savings_amount": 40.99,
+    "savings_percent": 20.5
+    },
+    "reviews": {
+    "total_reviews": 365,
+    "rating": 4.2
+    },
+    "url": "https://www.amazon.com/dp/B01N2K14U7",
+    "score": "1533.00",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": false,
+    "title": "Sponsored Ad - Apple Simple Mobile Prepaid - Apple iPhone 7 (32GB) - Black",
+    "thumbnail": "https://m.media-amazon.com/images/I/61+fbdrjtCL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 20,
+    "global_position": 19
+    },
+    "asin": "B08HDFV6FH",
+    "price": {
+    "discounted": false,
+    "current_price": 29.99,
+    "currency": "USD",
+    "before_price": 0,
+    "savings_amount": 0,
+    "savings_percent": 0
+    },
+    "reviews": {
+    "total_reviews": 457,
+    "rating": 3.8
+    },
+    "url": "https://www.amazon.com/dp/B08HDFV6FH",
+    "score": "1736.60",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Sponsored Ad - Wireless Earbuds Bluetooth 5.2 Headset with Charging Box, one-Touch IPX7 Waterproof Sports Headset with LED...",
+    "thumbnail": "https://m.media-amazon.com/images/I/61NwefBsHHL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 21,
+    "global_position": 20
+    },
+    "asin": "B08CL4CCG2",
+    "price": {
+    "discounted": true,
+    "current_price": 198.99,
+    "currency": "USD",
+    "before_price": 239.99,
+    "savings_amount": 41,
+    "savings_percent": 17.08
+    },
+    "reviews": {
+    "total_reviews": 43,
+    "rating": 4.6
+    },
+    "url": "https://www.amazon.com/dp/B08CL4CCG2",
+    "score": "197.80",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Tracfone Apple iPhone 7 4G LTE Prepaid Smartphone - 32GB - Black - Carrier Locked",
+    "thumbnail": "https://m.media-amazon.com/images/I/31+rHqWgOrL._AC_UY218_.jpg"
+},
+{
+    "position": {
+    "page": 1,
+    "position": 22,
+    "global_position": 21
+    },
+    "asin": "B08JQRBWXH",
+    "price": {
+    "discounted": true,
+    "current_price": 599.99,
+    "currency": "USD",
+    "before_price": 699,
+    "savings_amount": 99.01,
+    "savings_percent": 14.16
+    },
+    "reviews": {
+    "total_reviews": 20,
+    "rating": 4.3
+    },
+    "url": "https://www.amazon.com/dp/B08JQRBWXH",
+    "score": "86.00",
+    "sponsored": false,
+    "amazonChoice": false,
+    "bestSeller": false,
+    "amazonPrime": true,
+    "title": "Sponsored Ad - Nokia 8.3 5G Android Unlocked Smartphone with 8/128 GB Memory, Quad Camera, Dual SIM, and 6.81-Inch Screen,...",
+    "thumbnail": "https://m.media-amazon.com/images/I/71lLrmye9JL._AC_UY218_.jpg"
+}
+]
